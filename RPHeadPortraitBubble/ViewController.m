@@ -35,8 +35,6 @@
     bubbleView.dataArr = imgArr;
     [self.view addSubview:bubbleView];
     
-    
-    
     bu_view = [[GHCardBuddleView alloc]initWithFrame:CGRectMake(0, 150, bubbleView.bounds.size.width, self.view.bounds.size.height - 150)];
     bu_view.backgroundColor = [UIColor yellowColor];
     [self.view addSubview:bu_view];
