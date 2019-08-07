@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1EBA7BB122FB0F85005C4FD8 /* e.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EBA7BB022FB0F85005C4FD8 /* e.m */; };
 		1ECE97C222D61A3500B1449F /* GHCardBuddleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ECE97C122D61A3500B1449F /* GHCardBuddleView.m */; };
 		2B429135215CAFEE00340C32 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B429134215CAFEE00340C32 /* AppDelegate.m */; };
 		2B429138215CAFEE00340C32 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B429137215CAFEE00340C32 /* ViewController.m */; };
@@ -49,6 +50,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1EBA7BAF22FB0F85005C4FD8 /* e.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = e.h; sourceTree = "<group>"; };
+		1EBA7BB022FB0F85005C4FD8 /* e.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = e.m; sourceTree = "<group>"; };
 		1ECE97C022D61A3500B1449F /* GHCardBuddleView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GHCardBuddleView.h; sourceTree = "<group>"; };
 		1ECE97C122D61A3500B1449F /* GHCardBuddleView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GHCardBuddleView.m; sourceTree = "<group>"; };
 		2B429130215CAFEE00340C32 /* RPHeadPortraitBubble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RPHeadPortraitBubble.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -137,6 +140,8 @@
 				2B429134215CAFEE00340C32 /* AppDelegate.m */,
 				2B429136215CAFEE00340C32 /* ViewController.h */,
 				2B429137215CAFEE00340C32 /* ViewController.m */,
+				1EBA7BAF22FB0F85005C4FD8 /* e.h */,
+				1EBA7BB022FB0F85005C4FD8 /* e.m */,
 				2B429167215CB01600340C32 /* RPHeadPortraitBubbleView.h */,
 				2B429166215CB01600340C32 /* RPHeadPortraitBubbleView.m */,
 				1ECE97C022D61A3500B1449F /* GHCardBuddleView.h */,
@@ -332,6 +337,7 @@
 				2B429169215CB01600340C32 /* UIView+Ext.m in Sources */,
 				2B429138215CAFEE00340C32 /* ViewController.m in Sources */,
 				2B429143215CAFEF00340C32 /* main.m in Sources */,
+				1EBA7BB122FB0F85005C4FD8 /* e.m in Sources */,
 				2B429135215CAFEE00340C32 /* AppDelegate.m in Sources */,
 				2B42916A215CB01600340C32 /* RPHeadPortraitBubbleView.m in Sources */,
 				1ECE97C222D61A3500B1449F /* GHCardBuddleView.m in Sources */,
